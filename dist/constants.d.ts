@@ -6,8 +6,7 @@ export declare enum ChainId {
     RINKEBY = 4,
     GÖRLI = 5,
     KOVAN = 42,
-    XDAI = 100,
-	BSC = 56
+    XDAI = 56
 }
 export declare enum TradeType {
     EXACT_INPUT = 0,
