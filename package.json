@@ -1,5 +1,5 @@
 {
-  "name": "bsc-sdk",
+  "name": "uniswap-bsc-sdk",
   "license": "MIT",
   "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
