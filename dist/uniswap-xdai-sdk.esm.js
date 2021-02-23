@@ -21,7 +21,7 @@ var ChainId;
   ChainId[ChainId["RINKEBY"] = 4] = "RINKEBY";
   ChainId[ChainId["G\xD6RLI"] = 5] = "G\xD6RLI";
   ChainId[ChainId["KOVAN"] = 42] = "KOVAN";
-  ChainId[ChainId["BSC"] = 56] = "BSC";
+  ChainId[ChainId["XDAI"] = 56] = "XDAI";
 })(ChainId || (ChainId = {}));
 
 var TradeType;
